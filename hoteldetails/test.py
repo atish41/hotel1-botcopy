@@ -1,6 +1,6 @@
-from hotelsearch1 import SearchHotelList1
+#from hotelsearch1 import SearchHotelList1
 from pprint import pprint
-from hotelcity import GetHotelCity
+#from hotelcity import GetHotelCity
 from datetime import datetime
 from hotelsearch import SearchHotelList2
 #city=GetHotelCity("delhi")[0]
@@ -19,7 +19,7 @@ print(start)
 print(end)
 
 
-searchId,result = SearchHotelList2("Bur Dubai, United Arab Emirates","1","1",start,end,1,1,[9])
+searchId,result,_ = SearchHotelList2("Bur Dubai, United Arab Emirates","1","1",start,end,1,1,[9])
 pprint(result)
 pprint("this is the search id for hotel search",searchId)
 #def SearchHotelList1(city, startDate, endDate, adults, children, ages, rooms, nights,room_No):

@@ -36,7 +36,7 @@ def hoteldetails(searchId,sessionId,rooms,nights,tokenId,productId,hotelId):
         #result['sessionId']=details['sessionId']
         ###result['hotelId']=details['hotelId']
         #result['ratebasisId']=details['ratebasisId']
-        result['netPrice']=details['netPrice']
+        #result['netPrice']=details['netPrice']
         result['hotelName']=details['hotelName']
         result['images']=details['images']
         result['description']=details['description']
@@ -52,7 +52,31 @@ def hoteldetails(searchId,sessionId,rooms,nights,tokenId,productId,hotelId):
         return result
     
     except IndexError:
-        return "hotel details not found"
+        return "hotel details not found" 
 
 
     #print(data.decode("utf-8"))
+    '''try:
+        details=response['data'][0]['details'][0]
+        result['searchId']=searchId
+        #result['price']=details['price']
+        #result['sessionId']=details['sessionId']
+        ###result['hotelId']=details['hotelId']
+        #result['ratebasisId']=details['ratebasisId']
+        result['netPrice']=details['netPrice']
+        result['hotelName']=details['hotelName']
+        result['images']=details['images']
+        result['description']=details['description']
+        result['rating']=details['rating']
+        result['description1']=details[0]['description']
+        result['roomtype']=details[0]['roomtype']
+        result['netprice']=details[0]['netprice']
+        result['maxOccupancyPerRoom']=details[0]['maxOccupancyPerRoom']
+        result['cancellationPolicy']=details['cancellationPolicy']
+        result['roomImages']=details[0]['roomImages']
+        result['facilities']=details[0]['facilities']
+
+        return result
+    
+    except IndexError:
+        return "hotel details not found" '''

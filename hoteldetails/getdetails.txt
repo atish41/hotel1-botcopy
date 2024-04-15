@@ -1,0 +1,373 @@
+{'data': [{'details': [{'description': 'The premises count with 100 welcoming '
+                                       'accomodation units. Radisson Hotel '
+                                       'Hauppauge-Long Island offers Wi-Fi '
+                                       'internet connection on-site. Radisson '
+                                       'Hotel Hauppauge-Long Island offers a '
+                                       '24-hour reception service, so that '
+                                       "guests' needs will be fully met at any "
+                                       'time of the day or night. All units at '
+                                       'Radisson Hotel Hauppauge-Long Island '
+                                       'are wheelchair-accessible. There is a '
+                                       'car park. This hotel has a minimum '
+                                       'impact on the environment, thanks to '
+                                       'its sustainable practices. Sport '
+                                       'lovers may take advantage of the '
+                                       'leisure activities offered at this '
+                                       'hotel. The hotel may charge a fee for '
+                                       'some services. ',
+                        'hotelName': 'Radisson Hotel Hauppauge-Long Island',
+                        'images': [{'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_008.JPG'},
+                                   {'caption': 'RES',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_r_003.jpg'},
+                                   {'caption': 'RES',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_r_004.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_019.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_018.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_017.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_007.JPG'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_016.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_006.JPG'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_014.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_013.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_012.JPG'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_012.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_010.JPG'},
+                                   {'caption': 'DEP',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_f_001.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_011.jpg'},
+                                   {'caption': 'COM',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_l_001.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_010.jpg'},
+                                   {'caption': 'CON',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_k_002.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_015.jpg'},
+                                   {'caption': 'PIS',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_p_001.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_001.jpg'},
+                                   {'caption': 'BAR',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ba_003.jpg'},
+                                   {'caption': 'BAR',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ba_004.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_002.JPG'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_003.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_004.JPG'},
+                                   {'caption': 'BAR',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ba_005.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_002.JPG'},
+                                   {'caption': 'GEN',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_a_002.jpg'},
+                                   {'caption': 'CON',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_k_004.jpg'},
+                                   {'caption': 'GEN',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_a_001.jpg'},
+                                   {'caption': 'CON',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_k_003.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_013.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_024.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_009.JPG'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_021.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_w_020.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_014.jpg'},
+                                   {'caption': 'HAB',
+                                    'url': 'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_007.JPG'}],
+                        'location': 'HAUPPAUGE',
+                        'nights': '2',
+                        'occupancy': [{'adult': 1,
+                                       'child': 0,
+                                       'child_age': [],
+                                       'room_no': 1}],
+                        'productId': 'trx109',
+                        'rating': '3.0',
+                        'roomrates': [{'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 1 King Bed, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1680929.99,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwODc=',
+                                       'roomCode': 'DBL.KG-3',
+                                       'roomImages': ['https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_012.jpg'],
+                                       'roomType': '1 King Bed, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 1 King Bed, '
+                                                      'Nonsmoking, Accessible',
+                                       'extrabeds': '0',
+                                       'facilities': ['Living room',
+                                                      'Wi-fi',
+                                                      'Smoking rooms',
+                                                      'Room size (sqm) : 25',
+                                                      'Number of bedrooms : 1'],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1680929.99,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwODg=',
+                                       'roomCode': 'DBL.H6-KG',
+                                       'roomImages': ['https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_003.jpg',
+                                                      'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_013.jpg'],
+                                       'roomType': '1 King Bed, Nonsmoking, '
+                                                   'Accessible'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 1 King Bed, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1680929.99,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwODk=',
+                                       'roomCode': 'DBL.KG-2',
+                                       'roomImages': ['https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_014.jpg'],
+                                       'roomType': '1 King Bed, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 2 Double Beds, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1706802.16,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTA=',
+                                       'roomCode': 'ROO.2D',
+                                       'roomImages': [],
+                                       'roomType': '2 Double Beds, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 2 Double Beds, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1706802.16,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTE=',
+                                       'roomCode': 'ROO.2D-1',
+                                       'roomImages': [],
+                                       'roomType': '2 Double Beds, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': 'If cancelled '
+                                                             'from Mon 15 Apr '
+                                                             '2024 09:29:00 '
+                                                             'Amount NGN '
+                                                             '1766965.66 will '
+                                                             'charge!',
+                                       'currency': 'NGN',
+                                       'description': '1 1 King Bed, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': ['Living room',
+                                                      'Wi-fi',
+                                                      'Smoking rooms',
+                                                      'Room size (sqm) : 33',
+                                                      'Number of bedrooms : 1'],
+                                       'fareType': 'Non-Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1766965.66,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTI=',
+                                       'roomCode': 'DBL.KG',
+                                       'roomImages': ['https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_010.jpg',
+                                                      'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_015.jpg',
+                                                      'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_004.JPG'],
+                                       'roomType': '1 King Bed, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': 'If cancelled '
+                                                             'from Mon 15 Apr '
+                                                             '2024 09:29:00 '
+                                                             'Amount NGN '
+                                                             '226028.95 will '
+                                                             'charge!',
+                                       'currency': 'NGN',
+                                       'description': '1 1 King Bed, '
+                                                      'Nonsmoking',
+                                       'extrabeds': '0',
+                                       'facilities': ['Living room',
+                                                      'Wi-fi',
+                                                      'Smoking rooms',
+                                                      'Room size (sqm) : 33',
+                                                      'Number of bedrooms : 1'],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '2',
+                                       'netPrice': 1836791.55,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTM=',
+                                       'roomCode': 'DBL.KG',
+                                       'roomImages': ['https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_010.jpg',
+                                                      'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_015.jpg',
+                                                      'https://photos.hotelbeds.com/giata/original/65/658612/658612a_hb_ro_004.JPG'],
+                                       'roomType': '1 King Bed, Nonsmoking'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': '',
+                                       'currency': 'NGN',
+                                       'description': '1 Suite King Size Bed',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '8',
+                                       'netPrice': 2865919.85,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTQ=',
+                                       'roomCode': 'SUI.KG-8',
+                                       'roomImages': [],
+                                       'roomType': 'Suite King Size Bed'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': 'If cancelled '
+                                                             'from Mon 15 Apr '
+                                                             '2024 09:29:00 '
+                                                             'Amount NGN '
+                                                             '4496933.4 will '
+                                                             'charge!',
+                                       'currency': 'NGN',
+                                       'description': '1 Suite King Size Bed',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '8',
+                                       'netPrice': 4515976.78,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTU=',
+                                       'roomCode': 'SUI.KG-4',
+                                       'roomImages': [],
+                                       'roomType': 'Suite King Size Bed'},
+                                      {'boardType': 'ROOM ONLY',
+                                       'cancellationPolicy': 'If cancelled '
+                                                             'from Mon 15 Apr '
+                                                             '2024 09:29:00 '
+                                                             'Amount NGN '
+                                                             '4792582.58 will '
+                                                             'charge!',
+                                       'currency': 'NGN',
+                                       'description': '1 Suite King Size Bed',
+                                       'extrabeds': '0',
+                                       'facilities': [],
+                                       'fareType': 'Refundable',
+                                       'inventoryType': 'prepaid',
+                                       'markup': 0,
+                                       'maxOccupancyPerRoom': '8',
+                                       'netPrice': 4812164.63,
+                                       'productId': 'trx109',
+                                       'rateBasisId': 'NTEwOTY=',
+                                       'roomCode': 'SUI.KG-3',
+                                       'roomImages': [],
+                                       'roomType': 'Suite King Size Bed'}],
+                        'rooms': '1.0',
+                        'sessionId': 'TVRjeE16RTRNalEwTTE4ME9EZGZNVEE1TGpFNU9TNHhNVE11TXprPV8xMDM0MjMz',
+                        'tokenId': 'SMoTDg9bzxm3iKkqWlUf'}]}],
+ 'message': '',
+ 'success': True}
+127.0.0.1 - - [15/Apr/2024 17:31:16] "POST / HTTP/1.1" 200 -
+{'detectIntentResponseId': '50743027-ab80-4423-aaa7-d3f14353093a',
+ 'fulfillmentInfo': {'tag': 'more specific hotel details'},
+ 'intentInfo': {'confidence': 0.66702604,
+                'displayName': 'Know-more',
+                'lastMatchedIntent': 'projects/travel-chatbot-409605/locations/us-central1/agents/ad7caede-bce6-4562-ae2f-8dacfb73bddf/intents/63207c2a-7743-47f4-b65e-80baeb89f49e'},
+ 'languageCode': 'en',
+ 'languageInfo': {'confidenceScore': 1.0,
+                  'inputLanguageCode': 'en',
+                  'resolvedLanguageCode': 'en'},
+ 'pageInfo': {'currentPage': 'projects/travel-chatbot-409605/locations/us-central1/agents/ad7caede-bce6-4562-ae2f-8dacfb73bddf/flows/3ed31d48-076e-4f40-a75b-50f8dd046c81/pages/2f6e55dd-4c8b-4547-bda9-70a1d3b8fc5f',
+              'displayName': 'get hotel details'},
+ 'payload': {'fields': {}},
+ 'sessionInfo': {'parameters': {'$request.generative.fun_facts': 'Did you know '
+                                                                 'that the '
+                                                                 'Golden Gate '
+                                                                 'Bridge in '
+                                                                 'California '
+                                                                 'was '
+                                                                 'originally '
+                                                                 'supposed to '
+                                                                 'be painted '
+                                                                 'black and '
+                                                                 'yellow, but '
+                                                                 'the Navy '
+                                                                 'objected '
+                                                                 'because it '
+                                                                 'would have '
+                                                                 'interfered '
+                                                                 'with ship '
+                                                                 'traffic?',
+                                'adults': '1',
+                                'ages': '0',
+                                'bcBotId': '6618c4f86c53d500089b353b',
+                                'bcCurrentUrl': {'origin': 'file://',
+                                                 'path': '/C:/Users/Home/Downloads/Python%20codes/travel_bot.html',
+                                                 'url': 'file:///C:/Users/Home/Downloads/Python%20codes/travel_bot.html'},
+                                'bcTime': '6:18:47 PM',
+                                'bcTimeZone': 'Asia/Calcutta',
+                                'children': '0',
+                                'destination2': 'California, United States Of '
+                                                'America',
+                                'destination_city': '',
+                                'end-date': '2024-06-07',
+                                'nights': '12',
+                                'rooms': '1',
+                                'start-date': '2024-04-30'},
+                 'session': 'projects/travel-chatbot-409605/locations/us-central1/agents/ad7caede-bce6-4562-ae2f-8dacfb73bddf/sessions/ffa6bf6c-16cf-d6a3-e454-4ad0c83625f0'},
+ 'text': 'I want to change search details'}
+127.0.0.1 - - [15/Apr/2024 18:22:35] "POST / HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "D:\gg\hotel1-main-main\hotel1-botcopy\myenv\lib\site-packages\flask\app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "D:\gg\hotel1-main-main\hotel1-botcopy\myenv\lib\site-packages\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "D:\gg\hotel1-main-main\hotel1-botcopy\myenv\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_

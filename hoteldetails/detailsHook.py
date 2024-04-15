@@ -1,21 +1,96 @@
 from flask import Flask,request
 from pprint import pprint
-from hoteldetails.hotelsearch import SearchHotelList2
-from ages import ageconverter
-from datetime import datetime
-from ratingconverter import starRating
+from getdetails import getdetails
+from imagelist import imgfinder
+#from ages import ageconverter
+#from datetime import datetime
+#from ratingconverter import starRating
 #from timeconverter import convert_date_fromat
 app=Flask(__name__)
 
 @app.route('/')
 def demo():
-    return 'this returns hotel search results'
+    return 'this returns hotel search details'
 
 @app.route('/',methods=['POST'])
 def hotelhook():
     req=request.get_json(force=True)
     pprint(req)
     sessionInfo=req['sessionInfo']
+    parameters=sessionInfo['parameters']
+    searchId=parameters['searchId']
+    sessionId=parameters['sessionId']
+    rooms=str(parameters['rooms'])
+    nights=parameters['nights']
+    tokenId=parameters['tokenid']
+    productId=parameters['productId']
+    hotelId=parameters['hotelId']
+
+#def getdetails(searchId,sessionId,rooms,nights,tokenId,productId,hotelId):
+
+    response=getdetails(searchId,sessionId,rooms,nights,tokenId,productId,hotelId)
+    roomrates=response['data'][0]['details'][0]['roomrates']
+
+    response = {
+        "fulfillmentResponse": {
+            "messages": [
+                {
+                    "text": {
+                        "text": [
+                            "Here are the details for you"
+                        ]
+                    }
+                },
+                {
+                    "responseType": "RESPONSE_TYPE_UNSPECIFIED",
+                    "channel": "",
+                    "payload": {
+                        "botcopy": [
+                            {
+                                "carousel": [
+                                    {
+                                        "action": { 
+                                      "buttons": [ 
+                                        { 
+                                          "action": { 
+                                            "message": { 
+                                              "command": "Book Now", 
+                                              "type": "training", 
+                                              "parameters": {
+                                                    "productId": i["productId"],
+                                                    "rateBasisId": i["rateBasisId"],
+                                                    "netPrice":i["netPrice"]}
+                                            } 
+                                          }, 
+                                          "title": "Book Now" 
+                                        } 
+                                      ] 
+                                    },
+                                        "body": f'''Fair type {i["fareType"]}
+                                        Facilites include {', '.join(str(x) for x in i["facilities"])}
+Cancellation policy {i["cancellationPolicy"]}''',
+                                        "image": {
+                                            "alt": "Image of rooms",
+                                            "url": imgfinder(i.get("roomImages"))
+                                        },
+                                        "subtitle": f"""💵 NGN {i['netPrice']}""", 
+                                        "title": i["roomType"]
+                                    } for i in roomrates
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+    return response
+
+
+
+
+
+    '''sessionInfo=req['sessionInfo']
     parameters=sessionInfo['parameters']
     destination=parameters['destination_city'] if parameters['destination_city'] else parameters['destination2']
     rooms=parameters['rooms']
@@ -36,6 +111,11 @@ def hotelhook():
         for i in range(int(children)):
             child_age.append('7')
     total_people=int(adults)+int(children)
+
+
+    
+#def getdetails(searchId,sessionId,rooms,nights,tokenId,productId,hotelId):
+
 
 #def SearchHotelList1(city, rooms, nights,startDate, endDate, adults, children, ages):
 
@@ -138,8 +218,11 @@ def hotelhook():
                     ]
             }
         }
-        return nohotels
+        return nohotels'''
+    
+
+    return ""
 
 
 if __name__=="__main__":
-    app.run(debug=True,port=8060) 
+    app.run(debug=True,port=8080)
